@@ -114,8 +114,8 @@ emojis:
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/zoiberg.gif
   - name: zoidberg-scuttle
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/zoidberg-scuttle.gif
-  - name: 2
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance_2.gif
+  - name: hamsterdance_2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/2.gif
   - name: HamsterDances
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/HamsterDances.gif
   - name: anin-ham
@@ -236,8 +236,8 @@ emojis:
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/picard-facepalm.jpg
   - name: sir
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/sir.png
-  - name: 75
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/misc_75.gif
+  - name: misc_75
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/75.gif
   - name: Octocat
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/Octocat.png
   - name: censored
@@ -404,114 +404,114 @@ emojis:
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/slowpoke.jpg
   - name: vulpix-run
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/vulpix-run.gif
-  - name: 1
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_1.gif
-  - name: 10
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_10.gif
-  - name: 100
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_100.gif
-  - name: 101
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_101.gif
-  - name: 102
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_102.gif
-  - name: 103
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_103.gif
-  - name: 104
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_104.gif
-  - name: 105
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_105.gif
-  - name: 11
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_11.gif
-  - name: 12
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_12.gif
-  - name: 13
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_13.gif
-  - name: 14
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_14.gif
-  - name: 15
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_15.gif
-  - name: 16
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_16.gif
-  - name: 17
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_17.gif
-  - name: 18
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_18.gif
-  - name: 19
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_19.gif
-  - name: 2
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_2.gif
-  - name: 20
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_20.gif
-  - name: 21
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_21.gif
-  - name: 22
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_22.gif
-  - name: 23
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_23.gif
-  - name: 24
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_24.gif
-  - name: 25
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_25.gif
-  - name: 26
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_26.gif
-  - name: 27
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_27.gif
-  - name: 28
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_28.gif
-  - name: 29
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_29.gif
-  - name: 3
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_3.gif
-  - name: 30
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_30.gif
-  - name: 31
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_31.gif
-  - name: 32
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_32.gif
-  - name: 33
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_33.gif
-  - name: 34
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_34.gif
-  - name: 35
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_35.gif
-  - name: 36
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_36.gif
-  - name: 37
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_37.gif
-  - name: 38
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_38.gif
-  - name: 39
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_39.gif
-  - name: 4
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_4.gif
-  - name: 40
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_40.gif
-  - name: 41
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_41.gif
-  - name: 42
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_42.gif
-  - name: 43
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_43.gif
-  - name: 44
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_44.gif
-  - name: 45
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_45.gif
-  - name: 46
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_46.gif
-  - name: 47
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_47.gif
-  - name: 48
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_48.gif
-  - name: 5
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_5.gif
-  - name: 6
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_6.gif
-  - name: 7
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_7.gif
-  - name: 8
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_8.gif
-  - name: 9
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_9.gif
+  - name: ragefaces_1
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/1.gif
+  - name: ragefaces_10
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/10.gif
+  - name: ragefaces_100
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/100.gif
+  - name: ragefaces_101
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/101.gif
+  - name: ragefaces_102
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/102.gif
+  - name: ragefaces_103
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/103.gif
+  - name: ragefaces_104
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/104.gif
+  - name: ragefaces_105
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/105.gif
+  - name: ragefaces_11
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/11.gif
+  - name: ragefaces_12
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/12.gif
+  - name: ragefaces_13
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/13.gif
+  - name: ragefaces_14
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/14.gif
+  - name: ragefaces_15
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/15.gif
+  - name: ragefaces_16
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/16.gif
+  - name: ragefaces_17
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/17.gif
+  - name: ragefaces_18
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/18.gif
+  - name: ragefaces_19
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/19.gif
+  - name: ragefaces_2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/2.gif
+  - name: ragefaces_20
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/20.gif
+  - name: ragefaces_21
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/21.gif
+  - name: ragefaces_22
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/22.gif
+  - name: ragefaces_23
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/23.gif
+  - name: ragefaces_24
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/24.gif
+  - name: ragefaces_25
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/25.gif
+  - name: ragefaces_26
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/26.gif
+  - name: ragefaces_27
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/27.gif
+  - name: ragefaces_28
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/28.gif
+  - name: ragefaces_29
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/29.gif
+  - name: ragefaces_3
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/3.gif
+  - name: ragefaces_30
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/30.gif
+  - name: ragefaces_31
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/31.gif
+  - name: ragefaces_32
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/32.gif
+  - name: ragefaces_33
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/33.gif
+  - name: ragefaces_34
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/34.gif
+  - name: ragefaces_35
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/35.gif
+  - name: ragefaces_36
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/36.gif
+  - name: ragefaces_37
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/37.gif
+  - name: ragefaces_38
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/38.gif
+  - name: ragefaces_39
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/39.gif
+  - name: ragefaces_4
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/4.gif
+  - name: ragefaces_40
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/40.gif
+  - name: ragefaces_41
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/41.gif
+  - name: ragefaces_42
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/42.gif
+  - name: ragefaces_43
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/43.gif
+  - name: ragefaces_44
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/44.gif
+  - name: ragefaces_45
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/45.gif
+  - name: ragefaces_46
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/46.gif
+  - name: ragefaces_47
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/47.gif
+  - name: ragefaces_48
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/48.gif
+  - name: ragefaces_5
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/5.gif
+  - name: ragefaces_6
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/6.gif
+  - name: ragefaces_7
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/7.gif
+  - name: ragefaces_8
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/8.gif
+  - name: ragefaces_9
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/9.gif
   - name: ants-in-my-eyes
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/ants-in-my-eyes.png
   - name: beth-angry
@@ -586,10 +586,10 @@ emojis:
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/summer-happy.png
   - name: szechuan
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/szechuan.png
-  - name: 8-bit-connie
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-universe_8-bit-connie.png
-  - name: 8-bit-garnet
-    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-universe_8-bit-garnet.gif
+  - name: steven-universe_8-bit-connie
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/8-bit-connie.png
+  - name: steven-universe_8-bit-garnet
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/8-bit-garnet.gif
   - name: amethyst
     src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/amethyst.png
   - name: connie

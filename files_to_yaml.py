@@ -420,13 +420,14 @@ if __name__ == "__main__":
 
       print(files[i][j])
 
-      ofile.write( (' '*spaces) + '- name: ' + files[i][j][:-4] + '\n')
-
       if files[i][j][0].isdigit():
         print('hey')
-        ofile.write( (' '*(spaces+2)) + 'src: ' + prefix + folders[i] + '/' + folders[i] + '_' + files[i][j] + '\n')
+        ofile.write( (' '*spaces) + '- name: ' + folders[i] + '_' + files[i][j][:-4] + '\n')
       else:
-        ofile.write( (' '*(spaces+2)) + 'src: ' + prefix + folders[i] + '/' + files[i][j] + '\n')
+        ofile.write( (' '*spaces) + '- name: ' + files[i][j][:-4] + '\n')
+
+      
+      ofile.write( (' '*(spaces+2)) + 'src: ' + prefix + folders[i] + '/' + files[i][j] + '\n')
         
 
   print("goodbye")
