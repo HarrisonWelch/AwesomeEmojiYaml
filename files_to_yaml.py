@@ -33,7 +33,6 @@ if __name__ == "__main__":
     'bmo-love.gif',
     'cupcake-flex.png',
     'dancing-baby-finn.gif',
-    'douchy-fairy.png',
     'excited-fin.gif',
     'finn_dance.gif',
     'happy-bmo.gif',
