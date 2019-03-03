@@ -1,0 +1,706 @@
+# awesome_emoji.yaml
+
+title: awesome
+emojis:
+  - name: banana-guard
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/banana-guard.png
+  - name: bmo-dance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/bmo-dance.gif
+  - name: bmo-dancing
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/bmo-dancing.gif
+  - name: bmo-love
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/bmo-love.gif
+  - name: cupcake-flex
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/cupcake-flex.png
+  - name: dancing-baby-finn
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/dancing-baby-finn.gif
+  - name: douchy-fairy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/douchy-fairy.png
+  - name: excited-fin
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/excited-fin.gif
+  - name: finn_dance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/finn_dance.gif
+  - name: happy-bmo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/happy-bmo.gif
+  - name: hmmmmn
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/hmmmmn.gif
+  - name: iceking
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/iceking.gif
+  - name: jake-blink
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/jake-blink.gif
+  - name: jake-heart
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/jake-heart.gif
+  - name: jake-wag
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/jake-wag.gif
+  - name: lady-rainacorn
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/lady-rainacorn.png
+  - name: lemongrabplz
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/lemongrabplz.gif
+  - name: lsp-puke-rainbows
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/lsp-puke-rainbows.gif
+  - name: lsp
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/lsp.gif
+  - name: mr_cupcake
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/mr_cupcake.png
+  - name: pb-and-pep
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pb-and-pep.gif
+  - name: pb
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pb.png
+  - name: pb2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pb2.png
+  - name: pb3
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pb3.png
+  - name: pb4gif
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pb4gif.gif
+  - name: penguin-love
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/penguin-love.gif
+  - name: pep
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/pep.gif
+  - name: slime-princess
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/slime-princess.gif
+  - name: slime
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/slime.gif
+  - name: snail-wave
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/snail-wave.gif
+  - name: sparkly-finn-jake
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/sparkly-finn-jake.gif
+  - name: starchy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/starchy.png
+  - name: stretchy-jake
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/stretchy-jake.gif
+  - name: susan-strong
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/susan-strong.png
+  - name: treetrunks-pie
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/treetrunks-pie.gif
+  - name: treetrunks
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/treetrunks.png
+  - name: wahwahwah
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/wahwahwah.gif
+  - name: winking-jake
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/adventuretime/winking-jake.gif
+  - name: fallout-nuka-cola
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-nuka-cola.png
+  - name: fallout-nuka_cola-bottle
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-nuka_cola-bottle.png
+  - name: fallout-ok
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-ok.png
+  - name: fallout-pip-boy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-pip-boy.png
+  - name: fallout-thirst-zapper
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-thirst-zapper.png
+  - name: fallout-trophy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/fallout/fallout-trophy.png
+  - name: bender-banana
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/bender-banana.gif
+  - name: bender-dance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/bender-dance.gif
+  - name: bender-getdown
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/bender-getdown.gif
+  - name: fry-dance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/fry-dance.gif
+  - name: fry-headspin
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/fry-headspin.gif
+  - name: fry-walk
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/fry-walk.gif
+  - name: futurama_zoidbergSeppuku
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/futurama_zoidbergSeppuku.gif
+  - name: happy-leela
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/happy-leela.gif
+  - name: hypnotoad
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/hypnotoad.gif
+  - name: hypnotoad2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/hypnotoad2.gif
+  - name: leela_amy_wrestling
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/leela_amy_wrestling.gif
+  - name: zoiberg
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/zoiberg.gif
+  - name: zoidberg-scuttle
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/futurama/zoidberg-scuttle.gif
+  - name: 2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance_2.gif
+  - name: HamsterDances
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/HamsterDances.gif
+  - name: anin-ham
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/anin-ham.gif
+  - name: anin
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/anin.gif
+  - name: hampsterdancegame-hat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hampsterdancegame-hat.gif
+  - name: hamsterdance-grey-single
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance-grey-single.gif
+  - name: hamsterdance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance.gif
+  - name: hamsterdance.gif-c200
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance.gif-c200.gif
+  - name: hamsterdance2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance2.gif
+  - name: hamsterdance3
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/hamsterdance/hamsterdance3.gif
+  - name: jen
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/jen.png
+  - name: moss-bw-partial
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/moss-bw-partial.png
+  - name: moss-bw
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/moss-bw.png
+  - name: moss-cheer
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/moss-cheer.png
+  - name: moss
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/moss.jpg
+  - name: moss
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/moss.png
+  - name: roy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/it-crowd/roy.png
+  - name: bbod
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/loading/bbod.gif
+  - name: loading-plz
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/loading/loading-plz.gif
+  - name: loading
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/loading/loading.gif
+  - name: android
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/android.png
+  - name: apple_logo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/apple_logo.jpg
+  - name: aws-logo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/aws-logo.png
+  - name: coffeescript
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/coffeescript.png
+  - name: defcon
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/defcon.png
+  - name: golang
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/golang.png
+  - name: heroku
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/heroku.png
+  - name: microsoft_logo_2012
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/microsoft_logo_2012.png
+  - name: perl
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/perl.gif
+  - name: php
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/php.png
+  - name: python
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/python.png
+  - name: ruby
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/logos/ruby.png
+  - name: Coin-Pip
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/Coin-Pip.gif
+  - name: Coin
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/Coin.gif
+  - name: Goomba
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/Goomba.gif
+  - name: Question_Block
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/Question_Block.gif
+  - name: Smilie_v2_Luigi
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/Smilie_v2_Luigi.gif
+  - name: plant
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/plant.gif
+  - name: supermariowalkright
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/supermariowalkright.gif
+  - name: toad
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/mario/toad.gif
+  - name: dodo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-animals/dodo.png
+  - name: platypus
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-animals/platypus.png
+  - name: raccoon
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-animals/raccoon.png
+  - name: donkey-kong
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-gaming/donkey-kong.gif
+  - name: game
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-gaming/game.png
+  - name: nes
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-gaming/nes.png
+  - name: nes2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-gaming/nes2.png
+  - name: pvz-sad-zombi
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-gaming/pvz-sad-zombi.png
+  - name: allthethings
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/allthethings.png
+  - name: badgerbadgerbadger
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/badgerbadgerbadger.gif
+  - name: dickbutt
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/dickbutt.jpg
+  - name: doge
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/doge.png
+  - name: goatse
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/goatse.gif
+  - name: grumpy-cat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/grumpy-cat.png
+  - name: haterade
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/haterade.jpg
+  - name: leftshark-dance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/leftshark-dance.gif
+  - name: llap
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/llap.png
+  - name: nyan
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/nyan.gif
+  - name: old-man-yells-at-cloud
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/old-man-yells-at-cloud.jpg
+  - name: picard-facepalm
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/picard-facepalm.jpg
+  - name: sir
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc-memes/sir.png
+  - name: 75
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/misc_75.gif
+  - name: Octocat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/Octocat.png
+  - name: censored
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/censored.gif
+  - name: cheer
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/cheer.gif
+  - name: cockroach
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/cockroach.png
+  - name: flying-brain
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/flying-brain.gif
+  - name: icon_rtfm
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/icon_rtfm.gif
+  - name: mf
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/mf.png
+  - name: pistol
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/pistol.gif
+  - name: ranchmoji
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/ranchmoji.gif
+  - name: rtfm-sign
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/rtfm-sign.gif
+  - name: signs-mug
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/signs-mug.gif
+  - name: voodoo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/voodoo.gif
+  - name: whiskey
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/misc/whiskey.jpg
+  - name: calcifer
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/calcifer.gif
+  - name: forest-spirit
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/forest-spirit.gif
+  - name: happy-sootsprite
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/happy-sootsprite.gif
+  - name: no-face
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/no-face.gif
+  - name: soot-sprites
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/soot-sprites.gif
+  - name: sprite
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/sprite.gif
+  - name: totoro-hoop
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/totoro-hoop.gif
+  - name: totoro
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/miyazaki/totoro.gif
+  - name: Mei
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/Mei.png
+  - name: Widowmaker
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/Widowmaker.png
+  - name: ana
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/ana.png
+  - name: birgitta
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/birgitta.png
+  - name: dad-76-waist
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/dad-76-waist.png
+  - name: genji
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/genji.png
+  - name: hanzo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/hanzo.png
+  - name: junkrat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/junkrat.png
+  - name: logo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/logo.png
+  - name: lucio
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/lucio.png
+  - name: mercy-2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/mercy-2.png
+  - name: mercy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/mercy.png
+  - name: moira
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/moira.png
+  - name: orisa
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/orisa.png
+  - name: overwatch-ana
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-ana.png
+  - name: overwatch-bastion
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-bastion.png
+  - name: overwatch-dva
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-dva.png
+  - name: overwatch-genji
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-genji.png
+  - name: overwatch-hanzo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-hanzo.png
+  - name: overwatch-junkrat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-junkrat.png
+  - name: overwatch-lucio
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-lucio.png
+  - name: overwatch-mcree
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-mcree.png
+  - name: overwatch-mei
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-mei.png
+  - name: overwatch-mercy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-mercy.png
+  - name: overwatch-pharah
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-pharah.png
+  - name: overwatch-reaper
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-reaper.png
+  - name: overwatch-reinhardt
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-reinhardt.png
+  - name: overwatch-roadhog
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-roadhog.png
+  - name: overwatch-solider-76
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-solider-76.png
+  - name: overwatch-sombra
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-sombra.png
+  - name: overwatch-symmetra
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-symmetra.png
+  - name: overwatch-torbjorn
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-torbjorn.png
+  - name: overwatch-tracer
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-tracer.png
+  - name: overwatch-widowmaker
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-widowmaker.png
+  - name: overwatch-winston
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-winston.png
+  - name: overwatch-zarya
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-zarya.png
+  - name: overwatch-zenyatta
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/overwatch-zenyatta.png
+  - name: pharah
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/pharah.png
+  - name: reaper-guns
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/reaper-guns.png
+  - name: reinhardt-waist
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/reinhardt-waist.png
+  - name: reinhardt
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/reinhardt.png
+  - name: sombra-waist
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/sombra-waist.png
+  - name: symmetra
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/symmetra.png
+  - name: torbjorn
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/torbjorn.png
+  - name: tracer-hips
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/tracer-hips.png
+  - name: tracer
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/tracer.png
+  - name: winston
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/winston.png
+  - name: zarya
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/zarya.png
+  - name: zenyatta
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/overwatch/zenyatta.png
+  - name: bulbasaur-run
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/bulbasaur-run.gif
+  - name: caterpie
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/caterpie.gif
+  - name: charmander-lick
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/charmander-lick.gif
+  - name: mew-pokeball
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/mew-pokeball.gif
+  - name: ninetails
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/ninetails.gif
+  - name: pika-bounce
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/pika-bounce.gif
+  - name: pika-run
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/pika-run.gif
+  - name: pika-sleep
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/pika-sleep.gif
+  - name: pokeball
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/pokeball.png
+  - name: psyduck-lick
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/psyduck-lick.gif
+  - name: raichu
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/raichu.gif
+  - name: slowpoke
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/slowpoke.jpg
+  - name: vulpix-run
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/pokemon/vulpix-run.gif
+  - name: 1
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_1.gif
+  - name: 10
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_10.gif
+  - name: 100
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_100.gif
+  - name: 101
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_101.gif
+  - name: 102
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_102.gif
+  - name: 103
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_103.gif
+  - name: 104
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_104.gif
+  - name: 105
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_105.gif
+  - name: 11
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_11.gif
+  - name: 12
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_12.gif
+  - name: 13
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_13.gif
+  - name: 14
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_14.gif
+  - name: 15
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_15.gif
+  - name: 16
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_16.gif
+  - name: 17
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_17.gif
+  - name: 18
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_18.gif
+  - name: 19
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_19.gif
+  - name: 2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_2.gif
+  - name: 20
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_20.gif
+  - name: 21
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_21.gif
+  - name: 22
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_22.gif
+  - name: 23
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_23.gif
+  - name: 24
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_24.gif
+  - name: 25
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_25.gif
+  - name: 26
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_26.gif
+  - name: 27
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_27.gif
+  - name: 28
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_28.gif
+  - name: 29
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_29.gif
+  - name: 3
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_3.gif
+  - name: 30
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_30.gif
+  - name: 31
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_31.gif
+  - name: 32
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_32.gif
+  - name: 33
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_33.gif
+  - name: 34
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_34.gif
+  - name: 35
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_35.gif
+  - name: 36
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_36.gif
+  - name: 37
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_37.gif
+  - name: 38
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_38.gif
+  - name: 39
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_39.gif
+  - name: 4
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_4.gif
+  - name: 40
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_40.gif
+  - name: 41
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_41.gif
+  - name: 42
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_42.gif
+  - name: 43
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_43.gif
+  - name: 44
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_44.gif
+  - name: 45
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_45.gif
+  - name: 46
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_46.gif
+  - name: 47
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_47.gif
+  - name: 48
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_48.gif
+  - name: 5
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_5.gif
+  - name: 6
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_6.gif
+  - name: 7
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_7.gif
+  - name: 8
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_8.gif
+  - name: 9
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/ragefaces/ragefaces_9.gif
+  - name: ants-in-my-eyes
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/ants-in-my-eyes.png
+  - name: beth-angry
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/beth-angry.png
+  - name: beth-scared
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/beth-scared.png
+  - name: beth-serious
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/beth-serious.png
+  - name: beth-smile
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/beth-smile.png
+  - name: blips-and-chips
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/blips-and-chips.png
+  - name: butter-robot
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/butter-robot.png
+  - name: giant-nakes-santa
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/giant-nakes-santa.png
+  - name: jerry-angry
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/jerry-angry.png
+  - name: jerry-eyeroll
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/jerry-eyeroll.png
+  - name: jerry-mansplain
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/jerry-mansplain.png
+  - name: jerry-scream
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/jerry-scream.png
+  - name: jerry-skeptical
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/jerry-skeptical.png
+  - name: meeseeks-anguish
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/meeseeks-anguish.png
+  - name: meeseeks
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/meeseeks.png
+  - name: morty-derp
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/morty-derp.png
+  - name: morty-heh
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/morty-heh.png
+  - name: morty-sad
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/morty-sad.png
+  - name: morty-smile
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/morty-smile.png
+  - name: pickle-rick
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/pickle-rick.png
+  - name: portal-gun
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/portal-gun.png
+  - name: rick-and-morty-portal
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-and-morty-portal.png
+  - name: rick-drinking
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-drinking.png
+  - name: rick-hey-2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-hey-2.png
+  - name: rick-hey
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-hey.png
+  - name: rick-panic
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-panic.png
+  - name: rick-whatever
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/rick-whatever.png
+  - name: robo-rick
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/robo-rick.png
+  - name: screaming-morty
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/screaming-morty.png
+  - name: screaming-sun
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/screaming-sun.png
+  - name: show-me-what-you-got
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/show-me-what-you-got.png
+  - name: snuffles
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/snuffles.png
+  - name: special-rick
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/special-rick.png
+  - name: summer-angry
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/summer-angry.png
+  - name: summer-crying
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/summer-crying.png
+  - name: summer-happy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/summer-happy.png
+  - name: szechuan
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/rick-and-morty/szechuan.png
+  - name: 8-bit-connie
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-universe_8-bit-connie.png
+  - name: 8-bit-garnet
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-universe_8-bit-garnet.gif
+  - name: amethyst
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/amethyst.png
+  - name: connie
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/connie.png
+  - name: fusion
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/fusion.png
+  - name: gem
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/gem.png
+  - name: happy-amethyst
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/happy-amethyst.jpg
+  - name: lion
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/lion.png
+  - name: love
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/love.gif
+  - name: pearl-nope
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/pearl-nope.png
+  - name: pearl
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/pearl.png
+  - name: stern-garnet
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/stern-garnet.png
+  - name: steve-tadah
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steve-tadah.png
+  - name: steven-ani
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-ani.gif
+  - name: steven-connie-fusion
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-connie-fusion.png
+  - name: steven-happy-head
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-happy-head.png
+  - name: steven-run
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-run.png
+  - name: steven-shield
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-shield.png
+  - name: steven-shouting
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-shouting.png
+  - name: steven-star
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/steven-universe/steven-star.png
+  - name: alliance
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/alliance.jpg
+  - name: blood-elf
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/blood-elf.png
+  - name: chest
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/chest.jpg
+  - name: demon-hunter
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/demon-hunter.png
+  - name: druid
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/druid.png
+  - name: horde
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/horde.png
+  - name: hunter
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/hunter.png
+  - name: mage
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/mage.png
+  - name: shaman
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/shaman.png
+  - name: wow-logo
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/world-of-warcraft/wow-logo.png
+  - name: ArmosKnight(Front)
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/ArmosKnight(Front).gif
+  - name: BlueCandle
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/BlueCandle.gif
+  - name: BlueRing
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/BlueRing.gif
+  - name: Fairy
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Fairy.gif
+  - name: Fire
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Fire.gif
+  - name: GelBlack
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/GelBlack.gif
+  - name: LifePotion
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/LifePotion.gif
+  - name: LifePotion2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/LifePotion2.gif
+  - name: Link (Normal) - Red Ring
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link (Normal) - Red Ring.gif
+  - name: Link(Normal)(Back)
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link(Normal)(Back).gif
+  - name: Link(Normal)(Front)1
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link(Normal)(Front)1.gif
+  - name: Link(Normal)(Left)1
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link(Normal)(Left)1.gif
+  - name: Link(Normal)Item1
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link(Normal)Item1.gif
+  - name: Link(Normal)Item2
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Link(Normal)Item2.gif
+  - name: MedicineWoman
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/MedicineWoman.gif
+  - name: Octorok - Blue (Front)
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Octorok - Blue (Front).gif
+  - name: Octorok - Red (Front)
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Octorok - Red (Front).gif
+  - name: OldMan
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/OldMan.gif
+  - name: PolsVoice
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/PolsVoice.gif
+  - name: PrincessZelda
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/PrincessZelda.gif
+  - name: PrincessZeldaTriforce
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/PrincessZeldaTriforce.gif
+  - name: Rupee
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Rupee.gif
+  - name: Spiny
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/Spiny.gif
+  - name: TektikeBlue
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/TektikeBlue.gif
+  - name: TektikeRed
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/TektikeRed.gif
+  - name: WomanRed
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/WomanRed.gif
+  - name: ZolGrey
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/ZolGrey.gif
+  - name: sweat
+    src: https://raw.githubusercontent.com/snipe/awesome-emoji/master/zelda/sweat.gif
